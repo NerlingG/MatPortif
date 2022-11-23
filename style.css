@@ -1,0 +1,14 @@
+body{
+    background-color: lavender;
+}
+.fundo{
+    background-color: teal;
+    color: wheat;
+}
+.meio{
+    text-align: center;
+    padding-top: 2.5%;
+}
+.meio2{
+    text-align: center;
+}
